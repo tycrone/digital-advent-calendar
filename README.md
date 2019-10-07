@@ -1,5 +1,4 @@
-# digital-advent-calendar
-Sunrise Records Christmas Advent Calendar
+# Sunrise Records Christmas Advent Calendar
 
 
 
